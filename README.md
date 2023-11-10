@@ -1,4 +1,4 @@
-# MxReport
+# MxReport (WORK IN PROGRESS)
 A tool for creating job reports 
 (tailored for Wybrzeże Theatre)
 
