@@ -1,3 +1,3 @@
-To check out the program, visit the `releases` section
+To check out the program, visit the **`releases`** section
 
-#WORK IN PROGRESS
+**WORK IN PROGRESS**
